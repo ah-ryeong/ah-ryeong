@@ -25,7 +25,7 @@
   <br />
   
   <!--START_SECTION:waka-->
-  [![ah-ryeong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahryeong)]
+  ![ah-ryeong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahryeong)
   <!--END_SECTION:waka-->
 
   <br/><br />
