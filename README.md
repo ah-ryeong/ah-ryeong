@@ -29,8 +29,7 @@
   <!--END_SECTION:waka-->
 
   <br/><br />
-  
-  ![Aryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-ryeong&show_icons=true&theme=tokyonight)
+
   [![Aryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-ryeong)]()
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-ryeong&langs_count=10&layout=compact)]()
   
